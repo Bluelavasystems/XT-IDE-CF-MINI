@@ -7,7 +7,7 @@ Documentation for the switches can be found on the rear silkscreen. More ROM I/O
 
 Credit:
 -------
-Design uses schematic from Sergey Kiselev, with a few small changes to switches, and PCB from scratch.\
+Design uses schematic from Sergey Kiselev, with a few small changes to switches
 www.malinov.com/Home/sergeys-projects/xt-cf-lite
 
 XT-IDE Universal BIOS\
