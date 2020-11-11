@@ -1,4 +1,4 @@
-Monotech XT-CF-Mini Rev1.1 ReadMe
+XT-CF-Mini Rev1.1 ReadMe
 ----------------------------
 
 8-bit ISA CompactFlash interface + Boot ROM (two separate functions that can be used individually).
