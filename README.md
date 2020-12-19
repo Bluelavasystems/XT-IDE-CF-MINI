@@ -1,6 +1,6 @@
-XT-CF-Mini Pcb desined by Monotech Pc's
 XT-CF-Mini Rev1.1 ReadMe
 ----------------------------
+XT-CF-Mini Pcb desined by Monotech Pc's
 
 8-bit ISA CompactFlash interface + Boot ROM (two separate functions that can be used individually).
 
