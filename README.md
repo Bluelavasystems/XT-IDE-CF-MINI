@@ -1,3 +1,4 @@
+XT-CF-Mini Pcb desined by Monotech Pc's
 XT-CF-Mini Rev1.1 ReadMe
 ----------------------------
 
